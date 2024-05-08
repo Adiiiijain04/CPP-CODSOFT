@@ -1,4 +1,4 @@
-# CodSoft-Internship
+# C++ CodSoft-Internship
 
 Hi, my name is Aditya Jain from Maharaja Surajmal Institute.
 This repository contains CodSoft's C++ internship project source codes 
